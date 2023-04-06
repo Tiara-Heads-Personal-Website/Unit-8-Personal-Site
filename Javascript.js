@@ -1,4 +1,4 @@
-let a="hello"
-let b="world"
-let c= a+" " +b
-console.log (c + "Thanks for visiting")
+let a="Hello"
+let b="World"
+let c= a + " " + b
+console.log (c +" " + "Thanks for visiting")
