@@ -61,12 +61,12 @@ h2,h3{
     width: 175px;
     height: 200px;
     padding: 3%;
-    clear:left;
+    clear: left;
     border-radius: 50%;
 
 }
 .portpic{
-    width: 50rem;
-    height: 40rem;
-    margin: 5%;
+    width: 40rem;
+    height: 32rem;
+    margin: 4%;
 }
