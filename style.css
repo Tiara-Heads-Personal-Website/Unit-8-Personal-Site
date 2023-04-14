@@ -53,24 +53,34 @@ h2,h3{
 #nyc{
     width: 175px;
     height: 200px;
-    padding: 3%;
+    padding-right: 3%;
+    padding-left: 3%;
     border-radius: 50%;
-    clear: right;
 }
 #rocky{
     width: 175px;
     height: 200px;
-    padding: 3%;
-    clear: left;
+    padding-right: 3%;
+    padding-left: 3%;
     border-radius: 50%;
-    align-items: center;}
+}
+#nieces{
+    width: 175px;
+    height: 200px;
+    padding-right: 3%;
+    padding-left: 3%;
+    border-radius: 50%;
+}
+
+#photos{
+    display: flex;
+    justify-content: center;
+}
+
 .portpic{
     width: 45rem;
     height: 25rem;
     margin: 4%;
-}
-#flexin{
-    display: grid;
 }
 .links:hover{
 background-color: beige;
