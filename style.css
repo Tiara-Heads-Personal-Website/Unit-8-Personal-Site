@@ -88,3 +88,9 @@ text-shadow: #6B5B95;
 font-size: larger;
 font-weight: bold;
 }
+#submit:hover{
+    color: darkgrey;
+    background-color: silver;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
