@@ -23,8 +23,6 @@ body{
     font-display: bold;
     color:#5cbdb9;
     display: grid;
-
-
 }
 header{
     border: solid, black, 20px;
@@ -82,6 +80,6 @@ h2,h3{
     height: 25rem;
     margin: 4%;
 }
-.links:hover{
-background-color: beige;
+#home:hover,#portfolio:hover,#about:hover,#contact:hover{
+    background-color: bisque;
 }
