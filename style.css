@@ -22,6 +22,7 @@ body{
     text-indent: 3%;
     font-display: bold;
     color:#5cbdb9;
+    display: grid;
 
 
 }
@@ -70,4 +71,7 @@ h2,h3{
 }
 #flexin{
     display: grid;
+}
+.links:hover{
+background-color: beige;
 }
