@@ -48,21 +48,8 @@ h2,h3{
     text-decoration-line: underline;
     text-align: center;
 }
-#nyc{
-    width: 175px;
-    height: 200px;
-    padding-right: 3%;
-    padding-left: 3%;
-    border-radius: 50%;
-}
-#rocky{
-    width: 175px;
-    height: 200px;
-    padding-right: 3%;
-    padding-left: 3%;
-    border-radius: 50%;
-}
-#nieces{
+
+.pics{
     width: 175px;
     height: 200px;
     padding-right: 3%;
@@ -82,4 +69,14 @@ h2,h3{
 }
 #home:hover,#portfolio:hover,#about:hover,#contact:hover{
     background-color: bisque;
+    border: #6B5B95 2px double;
+}
+input {
+width: 40%;
+border: 3px solid plum;
+background-color: blanchedalmond;
+border-radius: 4px;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
 }
