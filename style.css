@@ -93,4 +93,10 @@ font-weight: bold;
     background-color: silver;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: 100px;
+}
+#submit{
+   transition: width 2s, height 1s;
+   cursor: grab;
 }
