@@ -97,6 +97,6 @@ font-weight: bold;
     height: 100px;
 }
 #submit{
-   transition: width 2s, height 1s;
+   transition: width 1s, height 1s;
    cursor: grab;
 }
